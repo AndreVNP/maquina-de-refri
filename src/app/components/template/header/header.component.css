@@ -1,6 +1,7 @@
 .header {
     display: flex;
     align-items: center;
+    /* position: fixed; */
 }
 
 .header a {
@@ -17,6 +18,6 @@
     padding-left: 25px;
 }
 
-.header .title-group i{
+.header .title-group i {
     padding-right: 5px;
 }
